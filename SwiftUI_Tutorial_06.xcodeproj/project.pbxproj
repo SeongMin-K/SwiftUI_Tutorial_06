@@ -11,6 +11,7 @@
 		3ED79A5927675C850047118B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED79A5827675C850047118B /* ContentView.swift */; };
 		3ED79A5B27675C860047118B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3ED79A5A27675C860047118B /* Assets.xcassets */; };
 		3ED79A5E27675C860047118B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3ED79A5D27675C860047118B /* Preview Assets.xcassets */; };
+		3ED79A652767657F0047118B /* SegmentLayoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ED79A642767657F0047118B /* SegmentLayoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3ED79A5827675C850047118B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3ED79A5A27675C860047118B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3ED79A5D27675C860047118B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3ED79A642767657F0047118B /* SegmentLayoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentLayoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3ED79A5627675C850047118B /* SwiftUI_Tutorial_06App.swift */,
 				3ED79A5827675C850047118B /* ContentView.swift */,
+				3ED79A642767657F0047118B /* SegmentLayoutView.swift */,
 				3ED79A5A27675C860047118B /* Assets.xcassets */,
 				3ED79A5C27675C860047118B /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3ED79A652767657F0047118B /* SegmentLayoutView.swift in Sources */,
 				3ED79A5927675C850047118B /* ContentView.swift in Sources */,
 				3ED79A5727675C850047118B /* SwiftUI_Tutorial_06App.swift in Sources */,
 			);
